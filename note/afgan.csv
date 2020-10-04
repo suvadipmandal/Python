@@ -1,0 +1,1341 @@
+Type,Category,Region,Attack on
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,Mine Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,Premature Detonation,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC WEST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,Premature Detonation,RC SOUTH,ENEMY
+Explosive Hazard,Turn In,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Suspicious Incident,Surveillance,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Air Mission,Reconnaissance,RC EAST,UNKNOWN
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC NORTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Convoy,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Non-Combat Event,Accident,RC SOUTH,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,ATTACK,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Enemy Action,Attack,RC WEST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,Mine Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Convoy,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Non-Combat Event,Accident,RC SOUTH,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,ATTACK,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Enemy Action,Attack,RC WEST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,Mine Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Suspicious Incident,Surveillance,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Attack,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,Mine Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Assassination,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Air Mission,Reconnaissance,RC EAST,UNKNOWN
+Non-Combat Event,Propaganda,RC WEST,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Other,Other,RC EAST,NEUTRAL
+Enemy Action,ATTACK,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC WEST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC WEST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,ATTACK,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC NORTH,ENEMY
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,Premature Detonation,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,Turn In,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Demonstration,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Suspicious Incident,Surveillance,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,Premature Detonation,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Suspicious Incident,Surveillance,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Other,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Patrol,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Friendly Action,Patrol,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cordon/Search,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC NORTH,ENEMY
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Patrol,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,Turn In,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Other,RC EAST,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Ambush,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,Premature Detonation,RC EAST,ENEMY
+Enemy Action,Ambush,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,Unknown Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Ambush,RC SOUTH,ENEMY
+Enemy Action,Attack,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,Mine Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC NORTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Patrol,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Non-Combat Event,Propaganda,RC CAPITAL,NEUTRAL
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Patrol,RC SOUTH,FRIEND
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Enemy Action,Attack,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Explosive Hazard,Mine Found/Cleared,RC EAST,ENEMY
+Other,FRAGO,RC EAST,NEUTRAL
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC NORTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Ambush,RC NORTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Friendly Action,Patrol,UNKNOWN,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC NORTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Other,RC EAST,FRIEND
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Enemy Action,Direct Fire,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Surveillance,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC NORTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,Turn In,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Non-Combat Event,Demonstration,RC NORTH,NEUTRAL
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC CAPITAL,ENEMY
+Explosive Hazard,Premature Detonation,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Other,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Friendly Action,Patrol,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Friendly Action,Patrol,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,Premature Detonation,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Other,FRAGO,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Friendly Action,Patrol,RC SOUTH,FRIEND
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Other (Hostile Action),RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Patrol,RC WEST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Other,Other,RC WEST,NEUTRAL
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Other,Other,RC WEST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Other,FRAGO,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,ATTACK,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Surveillance,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Friendly Action,Patrol,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,ATTACK,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Patrol,RC WEST,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Non-Combat Event,Propaganda,RC NORTH,NEUTRAL
+Friendly Action,Patrol,RC NORTH,FRIEND
+Friendly Action,Patrol,RC EAST,FRIEND
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC NORTH,NEUTRAL
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Patrol,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Friendly Action,Patrol,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Other,Other,RC WEST,NEUTRAL
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Friendly Action,Other,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Other,RC SOUTH,FRIEND
+Enemy Action,Attack,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC CAPITAL,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Friendly Action,Patrol,RC EAST,FRIEND
+Friendly Action,Patrol,RC NORTH,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC CAPITAL,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC WEST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Friendly Action,Patrol,RC CAPITAL,FRIEND
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Enemy Action,Other (Hostile Action),RC NORTH,ENEMY
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Other,Other,RC EAST,NEUTRAL
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC NORTH,ENEMY
+Enemy Action,Attack,RC WEST,ENEMY
+Enemy Action,Attack,RC WEST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Friendly Action,Patrol,RC CAPITAL,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC CAPITAL,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,Mine Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC WEST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,Turn In,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC CAPITAL,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,Mine Found/Cleared,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Attack,RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC NORTH,NEUTRAL
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC NORTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC NORTH,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC SOUTH,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,Premature Detonation,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Ambush,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC WEST,ENEMY
+Non-Combat Event,Propaganda,RC NORTH,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC NORTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,Turn In,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,Turn In,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,Turn In,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Accident,RC EAST,NEUTRAL
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Suspicious Incident,Surveillance,RC CAPITAL,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Enemy Action,Direct Fire,RC CAPITAL,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Demonstration,RC NORTH,NEUTRAL
+Explosive Hazard,IED Explosion,RC NORTH,ENEMY
+Suspicious Incident,Surveillance,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Friendly Action,Patrol,RC EAST,FRIEND
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Attack,RC SOUTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Explosive Hazard,Turn In,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC WEST,ENEMY
+Enemy Action,Indirect Fire,UNKNOWN,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,Turn In,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Explosive Hazard,Mine Found/Cleared,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Enemy Action,Other (Hostile Action),RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC NORTH,NEUTRAL
+Explosive Hazard,IED Explosion,RC WEST,ENEMY
+Enemy Action,Indirect Fire,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Enemy Action,Attack,RC SOUTH,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Ambush,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Attack,RC WEST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC SOUTH,ENEMY
+Non-Combat Event,Propaganda,RC EAST,NEUTRAL
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Enemy Action,Ambush,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC SOUTH,FRIEND
+Non-Combat Event,Accident,RC CAPITAL,NEUTRAL
+Explosive Hazard,IED Explosion,RC CAPITAL,ENEMY
+Enemy Action,Ambush,RC SOUTH,ENEMY
+Enemy Action,Other (Hostile Action),RC EAST,ENEMY
+Enemy Action,Direct Fire,RC NORTH,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Direct Fire,RC EAST,ENEMY
+Explosive Hazard,IED Explosion,RC EAST,ENEMY
+Enemy Action,Indirect Fire,RC SOUTH,ENEMY
+Friendly Action,Cache Found/Cleared,RC EAST,FRIEND
+Explosive Hazard,Turn In,RC EAST,ENEMY
+Explosive Hazard,IED Found/Cleared,RC EAST,ENEMY
+,,,
